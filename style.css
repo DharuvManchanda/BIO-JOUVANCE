@@ -158,7 +158,7 @@ gap: 20px;
   color: #cca9a9;
 }
 .heroSec {
-  background-image: url(img/heroSection.jpeg);
+  background-image: url(heroSection.jpeg);
   height: 95vh;
   background-size: cover;
   background-position: 50%;
@@ -189,7 +189,7 @@ gap: 20px;
   width: 100vw;
   min-height: 90vh;
   background-position: 62%;
-  background-image: url(img/Rectangle\ 28.jpg);
+  background-image: url(Rectangle\ 28.jpg);
   background-size: cover;
   display: flex;
   flex-direction: column;
